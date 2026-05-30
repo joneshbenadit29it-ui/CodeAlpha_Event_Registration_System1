@@ -3,7 +3,7 @@
 [![Node.js Version](https://img.shields.io/badge/node->=%2018.0.0-blue.svg)](https://nodejs.org)
 [![Express.js](https://img.shields.io/badge/framework-Express.js-brightgreen.svg)](https://expressjs.com)
 [![MongoDB](https://img.shields.io/badge/database-MongoDB-green.svg)](https://www.mongodb.com)
-[![CodeAlpha Task](https://img.shields.io/badge/Internship-CodeAlpha_Task_2-orange.svg)]()
+[![CodeAlpha Task](https://img.shields.io/badge/Internship-CodeAlpha_Task_11-orange.svg)]()
 
 A robust, enterprise-ready RESTful API backend architecture built for an **Event Registration System**. This system handles scalable user sign-ups, event creation, automatic relationship mappings, and secure registration management tracking.
 
